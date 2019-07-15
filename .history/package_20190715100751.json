@@ -1,0 +1,31 @@
+{
+  "name": "indra_testing",
+  "version": "1.0.0",
+  "description": "Curso de Testing en Indra",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "eslint": "eslint",
+    "jasmine-init": "node node_modules/jasmine/bin/jasmine init"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IconoTraining/indra_testing.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IconoTraining/indra_testing/issues"
+  },
+  "homepage": "https://github.com/IconoTraining/indra_testing#readme",
+  "devDependencies": {
+    "eslint": "^6.0.1",
+    "eslint-config-standard": "^13.0.1",
+    "eslint-plugin-import": "^2.18.0",
+    "eslint-plugin-node": "^9.1.0",
+    "eslint-plugin-promise": "^4.2.1",
+    "eslint-plugin-standard": "^4.0.0",
+    "jasmine": "^3.4.0"
+  }
+}
