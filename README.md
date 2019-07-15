@@ -1,2 +1,3 @@
-# indra_testing
-Curso de Testing en Indra
+# Jasmine Testing
+
+Unit testing with Jasmine
